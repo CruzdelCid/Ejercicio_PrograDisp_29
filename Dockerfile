@@ -11,4 +11,4 @@ COPY . ./
 
 EXPOSE 5000:5000
 
-CMD ["python", "class.py"]
+CMD ["python", "app.py"]
